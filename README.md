@@ -3,9 +3,8 @@ This made by Thien Pham to answer the DE Assessment.
 
 # Requirements
 
-## data.zip
-
-## python=3.8
+- unzip file data.zip inside this folder.
+- python=3.8
 
 # Installation
 
