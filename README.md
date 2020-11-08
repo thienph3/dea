@@ -1,5 +1,5 @@
 # DE Assessment
-This made by Thien Pham to answer the DE Assessment.
+This was created by Thien Pham to answer the DE Assessment on a beautiful night.
 
 # Requirements
 
